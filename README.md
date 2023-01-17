@@ -7,7 +7,7 @@ QuickShare.bat 파일을 시작프로그램 폴더 (C:\ProgramData\Microsoft\Win
 QuickShare 설정에서 윈도우 부팅 시 시작을 비활성화해 주세요. 중복실행을 방지합니다.
  
 Quickshare 앱이 설치된 경로는 C:\Program Files\WindowsApps 하위에서 확인 가능합니다. 
-기본적으로 접근권한이 막혀있고 숨김처리돠어 있으니 해제 후 확인해 주세요.
+기본적으로 접근권한이 막혀있고 숨김처리 되어있으니 해제 후 확인해 주세요.
 
 ## Troubleshooting
 #### 기기는 검색되지만 파일 전송 실패가 뜨는 경우
